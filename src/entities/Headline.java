@@ -20,6 +20,6 @@ public class Headline {
 
     @Override
     public String toString() {
-        return headline;
+        return "Headline: " + headline;
     }
 }

@@ -20,7 +20,7 @@ public class About {
 
     @Override
     public String toString() {
-        return about;
+        return "About: " + about;
     }
 
 }
